@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Mocks help you practice writing clear code for complex trees and graphs without getting bogged down in detail.
+Mock interview logs for advanced DSA provide critical feedback on your ability to not only solve, but also clearly communicate complex algorithmic approaches and justify their optimality to a panel of experts.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Review mock feedback specifically on your clarity when explaining non-trivial data structures and the logical flow of advanced graph or dynamic programming solutions.
 
 <!-- THOUGHT_END -->
 

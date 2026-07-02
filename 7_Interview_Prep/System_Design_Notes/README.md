@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Analyze distributed consensus algorithms (Raft, Paxos) and how they coordinate state transitions.
+Advanced DSA system design notes link low-level algorithmic choices to high-level architectural decisions, illustrating how foundational data structures and algorithms underpin scalable, resilient distributed systems.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Document how B-trees or LSM trees are fundamental to the performance of modern databases, and discuss their implications for read/write heavy workloads.
 
 <!-- THOUGHT_END -->
 

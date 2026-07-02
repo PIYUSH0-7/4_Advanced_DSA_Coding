@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Describe the mathematical models and proof of correctness behind your advanced implementations.
+An advanced DSA portfolio should be a testament to your ability to dissect, design, and implement solutions for the most challenging computational problems, articulating both algorithmic elegance and empirical performance.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* For each project, include visualizations or performance benchmarks demonstrating the efficiency and scalability of your advanced algorithms.
 
 <!-- THOUGHT_END -->
 
