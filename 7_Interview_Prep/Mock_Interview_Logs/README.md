@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Refine how you explain complex, non-trivial algorithmic structures to interviewers.
+Mocks help you practice writing clear code for complex trees and graphs without getting bogged down in detail.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 

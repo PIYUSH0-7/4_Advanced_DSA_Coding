@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Re-solve hard problems after some time to ensure you understand the core logic rather than memorizing the solution.
+Challenge yourself daily with hard-level algorithmic puzzles to keep problem-solving intuition sharp.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 

@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Study the relationship between advanced data structures (like LSM trees, B-trees) and storage engine designs.
+Analyze distributed consensus algorithms (Raft, Paxos) and how they coordinate state transitions.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

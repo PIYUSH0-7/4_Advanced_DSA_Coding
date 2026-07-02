@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Discuss how you analyzed system performance to isolate a highly complex bug or memory leak.
+Prepare stories about solving high-complexity problems or optimizing computational bottlenecks under tight constraints.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 

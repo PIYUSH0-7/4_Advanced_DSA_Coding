@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Highlight project performance metrics: execution speed improvements, memory efficiency, and scale limits.
+Describe the mathematical models and proof of correctness behind your advanced implementations.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
