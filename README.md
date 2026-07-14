@@ -4,7 +4,7 @@
 
 Solve complex problems by breaking them down into smaller mathematical sub-problems and proving each component's correctness.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 
