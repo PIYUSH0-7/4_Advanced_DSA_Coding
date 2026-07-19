@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Solve complex problems by breaking them down into smaller mathematical sub-problems and proving each component's correctness.
+Always consider the constant factors in Big-O analysis: memory locality and CPU caching can make a theoretical O(N) slower than an O(N log N).
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
