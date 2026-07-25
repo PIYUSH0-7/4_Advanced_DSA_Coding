@@ -4,7 +4,7 @@
 
 Always consider the constant factors in Big-O analysis: memory locality and CPU caching can make a theoretical O(N) slower than an O(N log N).
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
