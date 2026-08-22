@@ -4,7 +4,7 @@
 
 Advanced algorithms form the basis of system optimization; mastering them allows you to solve fundamentally hard engineering problems.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
